@@ -23,7 +23,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jchip/resolve-alias.git"
+    "url": "https://github.com/electrode-io/resolve-alias.git"
   },
   "devDependencies": {
     "electrode-archetype-njs-module-dev": "^3.0.0"
